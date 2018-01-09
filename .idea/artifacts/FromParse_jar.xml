@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="FromParse:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FromParse_jar</output-path>
+    <root id="root">
+      <element id="archive" name="FromParse.jar">
+        <element id="module-output" name="FromParse" />
+      </element>
+      <element id="library" level="project" name="json" />
+    </root>
+  </artifact>
+</component>
